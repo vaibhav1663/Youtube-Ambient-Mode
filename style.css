@@ -278,4 +278,5 @@ body{
 }
 .git-icon:hover{
   background-color: #DDD;
+  box-shadow: #eee 3px 5px 10px;
 }
